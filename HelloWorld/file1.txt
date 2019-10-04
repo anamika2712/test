@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 84F8-C54C
+
+ Directory of C:\Users\AnamikaKumari\Desktop\javaProgram
+
+03/07/2019  12:15 PM    <DIR>          .
+03/07/2019  12:15 PM    <DIR>          ..
+03/07/2019  12:15 PM                 0 file1.txt
+03/01/2019  01:17 PM               414 Hello.class
+02/28/2019  02:51 PM               139 Hello.java
+03/01/2019  03:09 PM               468 readme.txt
+               4 File(s)          1,021 bytes
+               2 Dir(s)  192,485,302,272 bytes free
